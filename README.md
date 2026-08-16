@@ -20,6 +20,45 @@ It is **not** permission to bypass branch protection, required review, credentia
 
 > **Yeet is an execution mode, not permission escalation.**
 
+## Yeet mode
+
+Yeet is not merely “move fast.” It is **situational recognition followed by decisive execution**.
+
+Think of a free safety looking at a trips formation. The call says one thing. The formation looks familiar. But something is off: a split, a stance, a protection tell, a tendency the safety recognizes from film. He has enough context to understand what is probably about to happen.
+
+So he goes.
+
+He does not call timeout so the defense can hold another meeting. He does not ignore the scheme, either. He makes a bounded judgment inside the system, commits to it, and lives with the result.
+
+That is Yeet mode.
+
+The same principle shows up in **Robert Horry energy**. Horry was not defined by taking every shot. He was defined by recognizing the moment when the shot was already his to take — then taking it without adding hesitation, choreography, or drama.
+
+In both cases, the important work happened **before** the decisive action:
+
+- preparation
+- pattern recognition
+- situational awareness
+- understanding the system
+- knowing which constraints are real
+- knowing when the decision has effectively already been made
+
+A good agent does not confuse decisiveness with recklessness. It does not bypass branch protection, ignore required review, or invent authority it does not have. It reads the field, preserves the user's intent, respects the rules that actually bind the repository, and then — when the path is clear — **commits**.
+
+In other words:
+
+- **Not:** rush everything.
+- **Not:** bypass safeguards.
+- **Not:** freelance without context.
+- **Not:** turn every change into a hero play.
+- **Yes:** recognize the tell.
+- **Yes:** understand the leverage point.
+- **Yes:** choose the shortest compliant path.
+- **Yes:** act before unnecessary process destroys the advantage.
+- **Yes:** verify that the play actually landed.
+
+The spirit is **Big Shot Rob with free-safety instincts**: preparation first, recognition second, hesitation last.
+
 ## When it triggers
 
 - “yeet it”
